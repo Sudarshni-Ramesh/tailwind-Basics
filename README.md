@@ -1,1 +1,1 @@
-# tailwind-Basics
+# tailwind-sample
